@@ -14,6 +14,7 @@
 body, html {
   height: 100%;
   width: 100%;
+  background-color: #f0f0f0;
 }
 
 .container {
@@ -44,6 +45,10 @@ body, html {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image: url('./img/Complex\ background\ with\ pale\ details\ _\ Free\ Vector.jpg');
+  background-size: cover;
+  background-position: center;
+
 }
 
 .form-box {
